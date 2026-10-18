@@ -1,9 +1,3 @@
-# Authors
-- Espíritu Cueva, Renzo Andree
-- Pilco Chiuyare, André Dario
-- Poma Astete, Luis Felipe
-- Sovero Cubillas, John Davids
-
 # 🚕 Distributed Multi-Agent Taxi Di## 📋 Table of Contents
 - [✨ Key Features](#-key-features)
 - [🏗️ System Architecture](#️-system-architecture)
